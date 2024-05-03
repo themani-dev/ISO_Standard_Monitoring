@@ -1,0 +1,1440 @@
+[
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/IEC Guide 63:2019",
+        "standard_description": "Guide to the development and inclusion of aspects of safety in International Standards for medical devices",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/67944.html",
+        "standard_details": {
+            "abstract": "This document provides requirements and recommendations to writers of medical device standards on the inclusion of aspects related to safety in International Standards, based on well-established risk management concepts and methodology.\nThis document is applicable to any aspect related to the safety of people, property, the environment, or a combination of these.\nIn this document, the term \"product\" includes a medical device or a system consisting of one or more medical devices, possibly combined with non-medical devices.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:67944:en",
+            "Status": "Published",
+            "Publication_date": "2019-08",
+            "Edition": "3",
+            "Number_of_pages": "26",
+            "Technical_Committee": "ISO/TMBG Technical Management Board - groups",
+            "ICS": "01.120:Standardization. General rules|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/CD 5137",
+        "standard_description": "Maintenance management program for medical equipment",
+        "standard_stage": "30.98",
+        "standard_url": "https://www.iso.org/standard/80906.html",
+        "standard_details": {
+            "Status": "Deleted",
+            "Edition": "1",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 13485:1996",
+        "standard_description": "Quality systems \u2014 Medical devices \u2014 Particular requirements for the application of ISO 9001",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/22098.html",
+        "standard_details": {
+            "abstract": "Specifies, in conjunction with the application of ISO 9001, the quality system requirements for the design/development and, when relevant, installation and servicing of medical devices.",
+            "Status": "Withdrawn",
+            "Publication_date": "1996-12",
+            "Edition": "1",
+            "Number_of_pages": "10",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "03.100.70:Management systems|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 13485:2003",
+        "standard_description": "Medical devices \u2014 Quality management systems \u2014 Requirements for regulatory purposes",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/36786.html",
+        "standard_details": {
+            "abstract": "ISO 13485:2003 specifies requirements for a quality management system where an organization needs to demonstrate its ability to provide medical devices and related services that consistently meet customer requirements and regulatory requirements applicable to medical devices and related services. \nThe primary objective of ISO 13485:2003 is to facilitate harmonized medical device regulatory requirements for quality management systems. As a result, it includes some particular requirements for medical devices and excludes some of the requirements of ISO 9001 that are not appropriate as regulatory requirements. Because of these exclusions, organizations whose quality management systems conform to this International Standard cannot claim conformity to ISO 9001 unless their quality management systems conform to all the requirements of ISO 9001.\nAll requirements of ISO 13485:2003 are specific to organizations providing medical devices, regardless of the type or size of the organization.\nIf regulatory requirements permit exclusions of design and development controls, this can be used as a justification for their exclusion from the quality management system. These regulations can provide alternative arrangements that are to be addressed in the quality management system. It is the responsibility of the organization to ensure that claims of conformity with ISO 13485:2003 reflect exclusion of design and development controls.\nIf any requirement(s) in Clause 7 of ISO 13485:2003 is(are) not applicable due to the nature of the medical device(s) for which the quality management system is applied, the organization does not need to include such a requirement(s) in its quality management system.\nThe processes required by ISO 13485:2003, which are applicable to the medical device(s), but which are not performed by the organization, are the responsibility of the organization and are accounted for in the organization's quality management system.",
+            "Status": "Withdrawn",
+            "Publication_date": "2003-07",
+            "Edition": "2",
+            "Number_of_pages": "57",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "03.100.70:Management systems|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 13485:2003/Cor 1:2009",
+        "standard_description": "Medical devices \u2014 Quality management systems \u2014 Requirements for regulatory purposes \u2014 Technical Corrigendum 1",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/54724.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "2009-08",
+            "Edition": "2",
+            "Number_of_pages": "1",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "03.120.10:Quality management and quality assurance|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 13485:2016",
+        "standard_description": "Medical devices \u2014 Quality management systems \u2014 Requirements for regulatory purposes",
+        "standard_stage": "90.93",
+        "standard_url": "https://www.iso.org/standard/59752.html",
+        "standard_details": {
+            "abstract": "ISO 13485:2016 specifies requirements for a quality management system where an organization needs to demonstrate its ability to provide medical devices and related services that consistently meet customer and applicable regulatory requirements. Such organizations can be involved in one or more stages of the life-cycle, including design and development, production, storage and distribution, installation, or servicing of a medical device and design and development or provision of associated activities (e.g. technical support). ISO 13485:2016 can also be used by suppliers or external parties that provide product, including quality management system-related services to such organizations.\nRequirements of ISO 13485:2016 are applicable to organizations regardless of their size and regardless of their type except where explicitly stated. Wherever requirements are specified as applying to medical devices, the requirements apply equally to associated services as supplied by the organization.\nThe processes required by ISO 13485:2016 that are applicable to the organization, but are not performed by the organization, are the responsibility of the organization and are accounted for in the organization's quality management system by monitoring, maintaining, and controlling the processes.\nIf applicable regulatory requirements permit exclusions of design and development controls, this can be used as a justification for their exclusion from the quality management system. These regulatory requirements can provide alternative approaches that are to be addressed in the quality management system. It is the responsibility of the organization to ensure that claims of conformity to ISO 13485:2016 reflect any exclusion of design and development controls.\nIf any requirement in Clauses 6, 7 or 8 of ISO 13485:2016 is not applicable due to the activities undertaken by the organization or the nature of the medical device for which the quality management system is applied, the organization does not need to include such a requirement in its quality management system. For any clause that is determined to be not applicable, the organization records the justification as described in 4.2.2.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:59752:en",
+            "Status": "Published",
+            "Publication_date": "2016-03",
+            "Edition": "3",
+            "Number_of_pages": "36",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "03.100.70:Management systems|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 13488:1996",
+        "standard_description": "Quality systems \u2014 Medical devices \u2014 Particular requirements for the application of ISO 9002",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/22101.html",
+        "standard_details": {
+            "abstract": "Specifies, in conjunction with the application of ISO 9002, the quality system requirements for the production and, when relevant, installation and servicing of medical devices.",
+            "Status": "Withdrawn",
+            "Publication_date": "1996-12",
+            "Edition": "1",
+            "Number_of_pages": "9",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "03.120.10:Quality management and quality assurance|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 14969:1999",
+        "standard_description": "Quality systems \u2014 Medical devices \u2014 Guidance on the application of ISO 13485 and ISO 13488",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/25800.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "1999-06",
+            "Edition": "1",
+            "Number_of_pages": "30",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "03.120.10:Quality management and quality assurance|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TR 14969:2004",
+        "standard_description": "Medical devices \u2014 Quality management systems \u2014 Guidance on the application of ISO 13485: 2003",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/33752.html",
+        "standard_details": {
+            "abstract": "ISO/TR 14969:2004 provides guidance for the application of the requirements for quality management systems contained in ISO 13485. It does not add to, or otherwise change, the requirements of ISO 13485. It does not include requirements to be used as the basis of regulatory inspection or certification assessment activities. \nThis guidance can be used to better understand the requirements of ISO 13485 and to illustrate some of the variety of methods and approaches available for meeting the requirements of ISO 13485.",
+            "Status": "Withdrawn",
+            "Publication_date": "2004-10",
+            "Edition": "1",
+            "Number_of_pages": "74",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "03.120.10:Quality management and quality assurance|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 14971-1:1998",
+        "standard_description": "Medical devices \u2014 Risk management \u2014 Part 1: Application of risk analysis",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/25799.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "1998-10",
+            "Edition": "1",
+            "Number_of_pages": "17",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 14971:2000",
+        "standard_description": "Medical devices \u2014 Application of risk management to medical devices",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/31550.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "2000-12",
+            "Edition": "1",
+            "Number_of_pages": "32",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 14971:2000/Amd 1:2003",
+        "standard_description": "Medical devices \u2014 Application of risk management to medical devices \u2014 Amendment 1: Rationale for requirements",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/36029.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "2003-03",
+            "Edition": "1",
+            "Number_of_pages": "7",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 14971:2007",
+        "standard_description": "Medical devices \u2014 Application of risk management to medical devices",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/38193.html",
+        "standard_details": {
+            "abstract": "ISO 14971:2007 specifies a process for a manufacturer to identify the hazards associated with medical devices, including in vitro diagnostic (IVD) medical devices, to estimate and evaluate the associated risks, to control these risks, and to monitor the effectiveness of the controls.\nThe requirements of ISO 14971:2007 are applicable to all stages of the life-cycle of a medical device.",
+            "Status": "Withdrawn",
+            "Publication_date": "2007-03",
+            "Corrected_version_(en)": "2007-09",
+            "Corrected_version_(fr)": "2007-09",
+            "Edition": "2",
+            "Number_of_pages": "82",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 14971:2019",
+        "standard_description": "Medical devices \u2014 Application of risk management to medical devices",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/72704.html",
+        "standard_details": {
+            "abstract": "This document specifies terminology, principles and a process for risk management of medical devices, including software as a medical device and in vitro diagnostic medical devices. The process described in this document intends to assist manufacturers of medical devices to identify the hazards associated with the medical device, to estimate and evaluate the associated risks, to control these risks, and to monitor the effectiveness of the controls.\nThe requirements of this document are applicable to all phases of the life cycle of a medical device. The process described in this document applies to risks associated with a medical device, such as risks related to biocompatibility, data and systems security, electricity, moving parts, radiation, and usability.\nThe process described in this document can also be applied to products that are not necessarily medical devices in some jurisdictions and can also be used by others involved in the medical device life cycle.\nThis document does not apply to:\n\u2014          decisions on the use of a medical device in the context of any particular clinical procedure; or\n\u2014          business risk management.\nThis document requires manufacturers to establish objective criteria for risk acceptability but does not specify acceptable risk levels.\nRisk management can be an integral part of a quality management system. However, this document does not require the manufacturer to have a quality management system in place.\nNOTE       Guidance on the application of this document can be found in ISO/TR 24971[9].",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:72704:en",
+            "Status": "Published",
+            "Publication_date": "2019-12",
+            "Edition": "3",
+            "Number_of_pages": "36",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15223-1:2007",
+        "standard_description": "Medical devices \u2014 Symbols to be used with medical device labels, labelling and information to be supplied \u2014 Part 1: General requirements",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/42342.html",
+        "standard_details": {
+            "abstract": "ISO 15223-1:2007 identifies requirements for the development and use of symbols that may be used to convey information on the safe and effective use of medical devices. It also lists symbols that satisfy the requirements of ISO 15223-1:2007.\nISO 15223-1:2007 is limited to symbols applicable to a broad spectrum of devices that may be marketed globally. These symbols may be used on the device itself or its package or in the associated documentation.",
+            "Status": "Withdrawn",
+            "Publication_date": "2007-04",
+            "Edition": "1",
+            "Number_of_pages": "14",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "01.080.20:Graphical symbols for use on specific equipment|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15223-1:2007/Amd 1:2008",
+        "standard_description": "Medical devices \u2014 Symbols to be used with medical device labels, labelling and information to be supplied \u2014 Part 1: General requirements \u2014 Amendment 1",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/45420.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "2008-06",
+            "Edition": "1",
+            "Number_of_pages": "2",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "01.080.20:Graphical symbols for use on specific equipment|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15223-1:2012",
+        "standard_description": "Medical devices \u2014 Symbols to be used with medical device labels, labelling and information to be supplied \u2014 Part 1: General requirements",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/50335.html",
+        "standard_details": {
+            "abstract": "ISO 15223-1:2012 identifies requirements for symbols used in medical device labelling that convey information on the safe and effective use of medical devices. It also lists symbols that satisfy the requirements of ISO 15223-1:2012.\nISO 15223-1:2012 is applicable to symbols used in a broad spectrum of medical devices, which are marketed globally and therefore need to meet different regulatory requirements. \nThese symbols may be used on the medical device itself, on its packaging or in the associated documentation. The requirements of ISO 15223-1:2012 are not intended to apply to symbols specified in other standards.",
+            "Status": "Withdrawn",
+            "Publication_date": "2012-07",
+            "Edition": "2",
+            "Number_of_pages": "23",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "01.080.20:Graphical symbols for use on specific equipment|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15223-1:2016",
+        "standard_description": "Medical devices \u2014 Symbols to be used with medical device labels, labelling and information to be supplied \u2014 Part 1: General requirements",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/69081.html",
+        "standard_details": {
+            "abstract": "ISO 15223-1:2016 identifies requirements for symbols used in medical device labelling that convey information on the safe and effective use of medical devices. It also lists symbols that satisfy the requirements of this document.\nISO 15223-1:2016 is applicable to symbols used in a broad spectrum of medical devices, which are marketed globally and therefore need to meet different regulatory requirements.\nThese symbols may be used on the medical device itself, on its packaging or in the associated documentation. The requirements of this document are not intended to apply to symbols specified in other standards.",
+            "Status": "Withdrawn",
+            "Publication_date": "2016-11",
+            "Corrected_version_(en)": "2017-03",
+            "Corrected_version_(fr)": "2017-03",
+            "Edition": "3",
+            "Number_of_pages": "25",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "01.080.20:Graphical symbols for use on specific equipment|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15223-1:2021",
+        "standard_description": "Medical devices \u2014 Symbols to be used with information to be supplied by the manufacturer \u2014 Part 1: General requirements",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/77326.html",
+        "standard_details": {
+            "abstract": "This document specifies symbols used to express information supplied for a medical device. This document is applicable to symbols used in a broad spectrum of medical devices, that are available globally and need to meet different regulatory requirements.\nThese symbols can be used on the medical device itself, on its packaging or in the accompanying information. The requirements of this document are not intended to apply to symbols specified in other standards.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:77326:en",
+            "Status": "Published",
+            "Publication_date": "2021-07",
+            "Corrected_version_(fr)": "2022-02",
+            "Edition": "4",
+            "Number_of_pages": "36",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "01.080.20:Graphical symbols for use on specific equipment|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15223-1:2021/AWI Amd 1",
+        "standard_description": "Medical devices \u2014 Symbols to be used with information to be supplied by the manufacturer \u2014 Part 1: General requirements \u2014 Amendment 1",
+        "standard_stage": "20.00",
+        "standard_url": "https://www.iso.org/standard/86270.html",
+        "standard_details": {
+            "Status": "Under development",
+            "Edition": "4",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "01.080.20:Graphical symbols for use on specific equipment|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15223-2:2010",
+        "standard_description": "Medical devices \u2014 Symbols to be used with medical device labels, labelling, and information to be supplied \u2014 Part 2: Symbol development, selection and validation",
+        "standard_stage": "90.92",
+        "standard_url": "https://www.iso.org/standard/42343.html",
+        "standard_details": {
+            "abstract": "ISO 15223-2:2010 specifies a process for developing, selecting and validating symbols for inclusion in ISO 15223-1.\nThe purpose of ISO 15223-2:2010 is to ensure that symbols included in ISO 15223-1 are readily understood by the target group.\nIf the symbol validation process detailed in ISO 15223-2:2010 has been complied with, then the residual risks, as defined in ISO 14971 and IEC 62366, associated with the usability of a medical device symbol are presumed to be acceptable, unless there is objective evidence to the contrary.\nISO 15223-2:2010 is not restricted to symbols intended to meet regulatory requirements or specified in regulatory guidelines on labelling.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:42343:en",
+            "Status": "Published",
+            "Publication_date": "2010-01",
+            "Edition": "1",
+            "Number_of_pages": "16",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "01.080.20:Graphical symbols for use on specific equipment|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15223:2000",
+        "standard_description": "Medical devices \u2014 Symbols to be used with medical device labels, labelling and information to be supplied",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/31349.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "2000-04",
+            "Edition": "1",
+            "Number_of_pages": "8",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "01.080.99:Other graphical symbols|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TR 15223:1998",
+        "standard_description": "Medical devices \u2014 Symbols to be used with medical device labels, labelling and information to be supplied",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/26496.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "1998-10",
+            "Edition": "1",
+            "Number_of_pages": "6",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "01.080.99:Other graphical symbols|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15223:2000/Amd 1:2002",
+        "standard_description": "Medical devices \u2014 Symbols to be used with medical device labels, labelling and information to be supplied \u2014 Amendment 1",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/32231.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "2002-08",
+            "Edition": "1",
+            "Number_of_pages": "1",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "01.080.99:Other graphical symbols|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15223:2000/Amd 2:2004",
+        "standard_description": "Medical devices \u2014 Symbols to be used with medical device labels, labelling and information to be supplied \u2014 Amendment 2",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/38062.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "2004-02",
+            "Edition": "1",
+            "Number_of_pages": "1",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "01.080.99:Other graphical symbols|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15225:2000",
+        "standard_description": "Nomenclature \u2014 Specification for a nomenclature system for medical devices for the purpose of regulatory data exchange",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/26495.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "2000-09",
+            "Edition": "1",
+            "Number_of_pages": "19",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15225:2000/Amd 1:2004",
+        "standard_description": "Nomenclature \u2014 Specification for a nomenclature system for medical devices for the purpose of regulatory data exchange \u2014 Amendment 1",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/36257.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "2004-02",
+            "Edition": "1",
+            "Number_of_pages": "2",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15225:2010",
+        "standard_description": "Medical devices \u2014 Quality management \u2014 Medical device nomenclature data structure",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/50728.html",
+        "standard_details": {
+            "abstract": "ISO 15225:2010 provides rules and guidelines for a medical device nomenclature data structure, in order to facilitate cooperation and exchange of data used by regulatory bodies on an international level between interested parties, e.g. regulatory authorities, manufacturers, suppliers, health care providers and end users.\nISO 15225:2010 includes guidelines for a minimum data set and its structure. These guidelines are provided for system designers setting up databases that utilize the nomenclature system described herein.\nThe requirements contained in ISO 15225:2010 are applicable to the development and maintenance of an international nomenclature for medical device identification.\nISO 15225:2010 does not include the nomenclature itself, which is provided as a data file.",
+            "Status": "Withdrawn",
+            "Publication_date": "2010-05",
+            "Edition": "2",
+            "Number_of_pages": "20",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15225:2016",
+        "standard_description": "Medical devices \u2014 Quality management \u2014 Medical device nomenclature data structure",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/63016.html",
+        "standard_details": {
+            "abstract": "ISO 15225:2016 specifies rules and guidelines for a medical device nomenclature data structure, in order to facilitate cooperation and exchange of data used by regulatory bodies on an international level between interested parties, e.g. regulatory authorities, manufacturers, suppliers, healthcare providers and end users.\nISO 15225:2016 includes guidelines for a minimum data set and its structure. These guidelines are provided for system designers setting up databases that utilize the nomenclature system described herein.\nThe requirements contained in this International Standard are applicable to the development and maintenance of an international nomenclature for medical device identification.\nISO 15225:2016 does not include the nomenclature itself, which is provided as a separate data file.",
+            "Status": "Withdrawn",
+            "Publication_date": "2016-03",
+            "Edition": "3",
+            "Number_of_pages": "13",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15378:2006",
+        "standard_description": "Primary packaging materials for medicinal products \u2014 Particular requirements for the application of ISO 9001:2000, with reference to Good Manufacturing Practice (GMP)",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/37522.html",
+        "standard_details": {
+            "abstract": "ISO 15378:2006 specifies requirements for a quality management system where an organization needs to demonstrate its ability to provide primary packaging materials for medicinal products, which consistently meet customer requirements, including regulatory requirements and International Standards applicable to primary packaging materials.\nISO 15378:2006 is an application standard for the design, manufacture and supply of primary packaging materials for medicinal products. It is also applicable for certification purposes.",
+            "Status": "Withdrawn",
+            "Publication_date": "2006-03",
+            "Edition": "1",
+            "Number_of_pages": "59",
+            "Technical_Committee": "ISO/TC 76 Transfusion, infusion and injection, and blood processing equipment for medical and pharmaceutical use",
+            "ICS": "03.100.70:Management systems|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15378:2011",
+        "standard_description": "Primary packaging materials for medicinal products \u2014 Particular requirements for the application of ISO 9001:2008, with reference to Good Manufacturing Practice (GMP)",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/54973.html",
+        "standard_details": {
+            "abstract": "ISO 15378:2011 specifies requirements for a quality management system where an organization needs to demonstrate its ability to provide primary packaging materials for medicinal products, which consistently meet customer requirements, including regulatory requirements and International Standards applicable to primary packaging materials.\nISO 15378:2011 is an application standard for the design, manufacture and supply of primary packaging materials for medicinal products. It is also applicable for certification purposes.",
+            "Status": "Withdrawn",
+            "Publication_date": "2011-11",
+            "Edition": "2",
+            "Number_of_pages": "67",
+            "Technical_Committee": "ISO/TC 76 Transfusion, infusion and injection, and blood processing equipment for medical and pharmaceutical use",
+            "ICS": "03.100.70:Management systems|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15378:2015",
+        "standard_description": "Primary packaging materials for medicinal products \u2014 Particular requirements for the application of ISO 9001:2008, with reference to Good Manufacturing Practice (GMP)",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/64289.html",
+        "standard_details": {
+            "abstract": "ISO 15378:2015 specifies requirements for a quality management system where an organization needs to demonstrate its ability to provide primary packaging materials for medicinal products, which consistently meet customer requirements, including regulatory requirements and International Standards applicable to primary packaging materials.",
+            "Status": "Withdrawn",
+            "Publication_date": "2015-10",
+            "Edition": "3",
+            "Number_of_pages": "63",
+            "Technical_Committee": "ISO/TC 76 Transfusion, infusion and injection, and blood processing equipment for medical and pharmaceutical use",
+            "ICS": "03.100.70:Management systems|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 15378:2017",
+        "standard_description": "Primary packaging materials for medicinal products \u2014 Particular requirements for the application of ISO 9001:2015, with reference to good manufacturing practice (GMP)",
+        "standard_stage": "90.93",
+        "standard_url": "https://www.iso.org/standard/70729.html",
+        "standard_details": {
+            "abstract": "ISO 15378:2017 specifies requirements for a quality management system when an organization:\na)    needs to demonstrate its ability to consistently provide products and services that meet customer and applicable statutory and regulatory requirements, and\nb)    aims to enhance customer satisfaction through the effective application of the system, including processes for improvement of the system and the assurance of conformity to customer and applicable statutory and regulatory requirements.\nAll the requirements of this International Standard are generic and are intended to be applicable to any organization, regardless of its type or size, or the products and services it provides.\nNOTE 1    In this International Standard, the terms \"product\" or \"service\" only apply to products and services intended for, or required by, a customer.\nNOTE 2    Statutory and regulatory requirements can be expressed as legal requirements.\nIn addition to ISO 9001, this document specifies Good Manufacturing Practice (GMP) requirements applicable to primary packaging materials for a quality management system where an organization needs to demonstrate its ability to provide primary packaging materials for medicinal products, which consistently meet customer requirements, including regulatory requirements and International Standards.\nIn ISO 15378:2017 the term \"if appropriate\" is used several times. When a requirement is qualified by this phrase, it is deemed to be \"appropriate\" unless the organization can document a justification otherwise.\nISO 15378:2017 is an application standard for the design, manufacture and supply of primary packaging materials for medicinal products.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:70729:en",
+            "Status": "Published",
+            "Publication_date": "2017-09",
+            "Edition": "4",
+            "Number_of_pages": "79",
+            "Technical_Committee": "ISO/TC 76 Transfusion, infusion and injection, and blood processing equipment for medical and pharmaceutical use",
+            "ICS": "03.100.70:Management systems|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 16142-1:2016",
+        "standard_description": "Medical devices \u2014 Recognized essential principles of safety and performance of medical devices \u2014 Part 1: General essential principles and additional specific essential principles for all non-IVD medical devices and guidance on the selection of standards",
+        "standard_stage": "95.60",
+        "standard_url": "https://www.iso.org/standard/63939.html",
+        "standard_details": {
+            "abstract": "ISO 16142:2016, which includes the essential principles of safety and performance, identifies significant standards and guides that can be used in the assessment of conformity of a medical device to the recognized essential principles that when met, indicate a medical device is safe and performs as intended. This part of ISO 16142 identifies and describes the six general essential principles of safety and performance that apply to all medical devices, including IVD medical devices (in vitro diagnostic).\nISO 16142:2016also identifies and describes the additional essential principles of safety and performance which need to be considered during the design and manufacturing process, which are relevant to medical devices other than IVD medical devices. Future ISO 16142\u20112 is intended to identify and describe the essential principles of safety and performance, which need to be considered during the design and manufacturing process of IVD medical devices.\nNOTE          During the design process, the manufacturer selects which of the listed design and manufacturing principles apply to the particular medical device and documents the reasons for excluding others.\nISO 16142:2016 is intended for use as guidance by medical device manufacturers, standards development organizations, authorities having jurisdiction, and conformity assessment bodies.",
+            "Status": "Published",
+            "Publication_date": "2016-03",
+            "Edition": "1",
+            "Number_of_pages": "47",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 16142-2:2017",
+        "standard_description": "Medical devices \u2014 Recognized essential principles of safety and performance of medical devices \u2014 Part 2: General essential principles and additional specific essential principles for all IVD medical devices and guidance on the selection of standards",
+        "standard_stage": "95.60",
+        "standard_url": "https://www.iso.org/standard/63940.html",
+        "standard_details": {
+            "abstract": "ISO 16142-2:2017, which includes the essential principles of safety and performance, identifies significant standards and guides that can be used in the assessment of conformity of a medical device to the recognized essential principles that when met, indicate a medical device is safe and performs as intended. This document identifies and describes the six general essential principles of safety and performance (see Table B.1) that apply to all medical devices, including IVD medical devices (in vitro diagnostic).\nISO 16142-2:2017 also identifies and describes the additional essential principles of safety and performance which need to be considered during the design and manufacturing process, which are relevant to IVD medical devices.\nNOTE          During the design process, the manufacturer selects which of the listed design and manufacturing principles apply to the particular medical device and documents the reasons for excluding others.\nISO 16142-2:2017 is intended for use as guidance by medical device manufacturers, standards development organizations, authorities having jurisdiction, and conformity assessment bodies.",
+            "Status": "Published",
+            "Publication_date": "2017-08",
+            "Edition": "1",
+            "Number_of_pages": "42",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TR 16142:1999",
+        "standard_description": "Medical devices \u2014 Guidance on the selection of standards in support of recognized essential principles of safety and performance of medical devices",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/30163.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "1999-12",
+            "Edition": "1",
+            "Number_of_pages": "20",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TR 16142:2006",
+        "standard_description": "Medical devices \u2014 Guidance on the selection of standards in support of recognized essential principles of safety and performance of medical devices",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/38401.html",
+        "standard_details": {
+            "abstract": "ISO/TR 16142:2006 considers and identifies certain significant standards and guides that can be useful in the assessment of conformity of medical devices with recognized essential principles of safety and performance.\nISO/TR 16142:2006 is intended for use by manufacturers, standardization bodies, regulatory bodies, and for conformity assessment purposes.",
+            "Status": "Withdrawn",
+            "Publication_date": "2006-01",
+            "Edition": "2",
+            "Number_of_pages": "17",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/PAS 18761:2013",
+        "standard_description": "Use and handling of medical devices covered by the scope of ISO/TC 84 \u2014 Risk assessment on mucocutaneous blood exposure",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/63309.html",
+        "standard_details": {
+            "abstract": "ISO/PAS 18761:2013 covers requirements for risk assessment on mucocutaneous blood and bodily fluid exposure in relation to the handling of medical devices for the administration of medicinal products covered by the scope of ISO/TC 84.",
+            "Status": "Withdrawn",
+            "Publication_date": "2013-03",
+            "Edition": "1",
+            "Number_of_pages": "1",
+            "Technical_Committee": "ISO/TC 84 Devices for administration of medicinal products and catheters",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TS 19218-1:2011",
+        "standard_description": "Medical devices \u2014 Hierarchical coding structure for adverse events \u2014 Part 1: Event-type codes",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/55589.html",
+        "standard_details": {
+            "abstract": "ISO/TS 19218-1:2011 specifies requirements for a hierarchical coding structure for describing adverse events relating to medical devices. The codes are intended for use by medical device users, manufacturers, regulatory authorities, health care facilities and other organizations. The codes can be used for coding events that are not related to death or serious injury, or malfunctions that could lead to death or serious injury.\nISO/TS 19218-1:2011 is not intended to be used to decide whether an incident is reportable or not.",
+            "Status": "Withdrawn",
+            "Publication_date": "2011-05",
+            "Edition": "1",
+            "Number_of_pages": "15",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "03.120.10:Quality management and quality assurance|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TS 19218-1:2011/Amd 1:2013",
+        "standard_description": "Medical devices \u2014 Hierarchical coding structure for adverse events \u2014 Part 1: Event-type codes \u2014 Amendment 1",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/58085.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "2013-01",
+            "Edition": "1",
+            "Number_of_pages": "7",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "03.120.10:Quality management and quality assurance|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TS 19218-2:2012",
+        "standard_description": "Medical devices \u2014 Hierarchical coding structure for adverse events \u2014 Part 2: Evaluation codes",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/55590.html",
+        "standard_details": {
+            "abstract": "ISO/TS 19218-2:2012 specifies requirements for a hierarchical coding structure for characterizing the results of the analysis or evaluation of adverse events relating to medical devices. The codes are intended primarily for use by medical device manufacturers and regulatory authorities. They can also be used for coding the results of the analysis or evaluation of events other than those related to death or serious injury, as well as malfunctions that could lead to death or serious injury.\nISO/TS 19218-2:2012 is not intended to be used to decide whether or not an incident is reportable.",
+            "Status": "Withdrawn",
+            "Publication_date": "2012-04",
+            "Edition": "1",
+            "Number_of_pages": "13",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "03.120.10:Quality management and quality assurance|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TS 19218:2005",
+        "standard_description": "Medical devices \u2014 Coding structure for adverse event type and cause",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/33753.html",
+        "standard_details": {
+            "abstract": "ISO/TS 19218:2005 specifies requirements for a coding structure for describing adverse events related to medical devices. This code is intended for use by medical device users, manufacturers and regulatory authorities.",
+            "Status": "Withdrawn",
+            "Publication_date": "2005-11",
+            "Edition": "1",
+            "Number_of_pages": "11",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "03.120.10:Quality management and quality assurance|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TR 19244:2014",
+        "standard_description": "Guidance on transition periods for standards developed by ISO/TC 84 \u2014 Devices for administration of medicinal products and catheters",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/64129.html",
+        "standard_details": {
+            "abstract": "ISO/TR 19244:2014 outlines the recommended transition plans for all the TC 84 standards:\nNeedle-based Injection systems;\nSharps Injury Protection;\nSharps Containers,\nAerosol Drug Delivery Devices;\nNeedle-free injection systems;\nSyringes;\nNeedles;\nIntravascular Catheters and Ports.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:64129:en",
+            "Status": "Published",
+            "Publication_date": "2014-08",
+            "Edition": "1",
+            "Number_of_pages": "3",
+            "Technical_Committee": "ISO/TC 84 Devices for administration of medicinal products and catheters",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 20069:2019",
+        "standard_description": "Guidance for assessment and evaluation of changes to drug delivery systems",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/66945.html",
+        "standard_details": {
+            "abstract": "This document provides guidance for assessment and evaluation of planned changes to drug delivery systems that are integral with, packaged with, or cross-labelled for use with a specified medicinal product. This document is applicable to the drug delivery system's lifecycle from registration clinical studies to end-of-life. This document is applicable to the assessment of changes within the following drug delivery systems: \n\u2014     needle-based injection systems for medical use;\n\u2014     aerosol drug delivery devices;\n\u2014     needle-free injectors for medical use.\nNOTE       These are covered by the ISO 11608 series, ISO 20072 and ISO 21649, respectively.\nThis document might also be useful for assessing and evaluate changes to other drug delivery devices or systems.\nExamples of changes that are within the scope of this document include but are not limited to the following:\na)    the same route of administration (e.g. change resulting in including a marketed prefilled syringe to an autoinjector);\nb)    changes to the drug delivery system design (e.g. change in configuration or layout of electrical and mechanical components);\nc)    changes to the medicinal product that affect the drug delivery system; including the primary container closure (e.g. viscosity, particle size);\nd)    changes in production or handling of the drug delivery system (e.g. process scale, manual to automated assembly, glue bond to sonic weld, mould cavitation, sterilization, storage, transportation, work instructions or methods);\ne)    changes in component materials or source of supply;\nf)     changes in software, including changes related to cybersecurity, encryption and connectivity;\ng)    changes in the user interface, including packaging;\nh)    changes to labelling and/or instructions for use.\nRevisions or additions of software are within the scope of this document. The software can either be integrated into the physical drug delivery system, separate, or both.\nThe applicability of this document to non-integrated software is relevant to the extent that those software changes can impact the drug delivery system and/or impact how users interact with it.\nDepending on the nature of the change, there can be additional assessments and resulting activities, which can be outside the scope of this document.\nThis document does not provide guidance for defining the objective of the change, nor the various potential opportunities/options for fulfilling this objective.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:66945:en",
+            "Status": "Published",
+            "Publication_date": "2019-08",
+            "Edition": "1",
+            "Number_of_pages": "36",
+            "Technical_Committee": "ISO/TC 84 Devices for administration of medicinal products and catheters",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TS 20225:2001",
+        "standard_description": "Global medical device nomenclature for the purpose of regulatory data exchange",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/34667.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "2001-11",
+            "Edition": "1",
+            "Number_of_pages": "786",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "01.040.11:Health care technology (Vocabularies)|11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TR 20416:2020",
+        "standard_description": "Medical devices \u2014 Post-market surveillance for manufacturers",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/67942.html",
+        "standard_details": {
+            "abstract": "This document provides guidance on the post-market surveillance process and is intended for use by medical device manufacturers. This post-market surveillance process is consistent with relevant international standards, in particular ISO 13485 and ISO 14971. This document describes a proactive and systematic process that manufacturers can use to collect and analyse appropriate data, to provide information for the feedback processes and use this to meet applicable regulatory requirements to gain experience from the post-production activities. The output of this process can be used:\n\u2014     as input into product realization;\n\u2014     as input into risk management;\n\u2014     for monitoring and maintaining product requirements;\n\u2014     for communicating to regulatory authorities; or\n\u2014     as input into improvement processes.\nThis document does not address market surveillance activities to be performed by regulatory authorities. Neither does it specify a manufacturer's actions required by the applicable regulatory requirements resulting from their production or post-production activities, nor reporting to regulatory authorities. This document is not intended to replace or change applicable regulatory requirements for post-market surveillance.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:67942:en",
+            "Status": "Published",
+            "Publication_date": "2020-07",
+            "Edition": "1",
+            "Number_of_pages": "43",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO 20417:2021",
+        "standard_description": "Medical devices \u2014 Information to be supplied by the manufacturer",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/67943.html",
+        "standard_details": {
+            "abstract": "NOTE\u00a01\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 There is guidance or rationale for this Clause contained in Clause A.2.\nThis document specifies the requirements for information supplied by the manufacturer for a medical device or by the manufacturer for an accessory, as defined in 3.1. This document includes the generally applicable requirements for identification and labels on a medical device or accessory, the packaging, marking of a medical device or accessory, and accompanying information. This document does not specify the means by which the information is to be supplied.\nNOTE\u00a02\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Some authorities having jurisdiction impose different requirements for the identification, marking and documentation of a medical device or accessory.\nSpecific requirements of medical device product standards or group standards take precedence over requirements of this document.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:67943:en",
+            "Status": "Published",
+            "Publication_date": "2021-04",
+            "Corrected_version_(en)": "2021-12",
+            "Corrected_version_(fr)": "2021-12",
+            "Edition": "1",
+            "Number_of_pages": "72",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TR 24971:2013",
+        "standard_description": "Medical devices \u2014 Guidance on the application of ISO 14971",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/59587.html",
+        "standard_details": {
+            "abstract": "ISO/TR 24971:2013 provides guidance in addressing specific areas of ISO 14971 when implementing risk management. This guidance is intended to assist manufacturers and other users of the standard to understand the role of international product safety and process standards in risk management, develop the policy for determining the criteria for risk acceptability, incorporate production and post-production feedback loop into risk management, differentiate between \"information for safety\" and \"disclosure of residual risk\", and evaluate overall residual risk.",
+            "Status": "Withdrawn",
+            "Publication_date": "2013-07",
+            "Edition": "1",
+            "Number_of_pages": "12",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TR 24971:2020",
+        "standard_description": "Medical devices \u2014 Guidance on the application of ISO 14971",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/74437.html",
+        "standard_details": {
+            "abstract": "This document provides guidance on the development, implementation and maintenance of a risk management system for medical devices according to ISO 14971:2019.\nThe risk management process can be part of a quality management system, for example one that is based on ISO 13485:2016[24], but this is not required by ISO 14971:2019. Some requirements in ISO 13485:2016 (Clause 7 on product realization and 8.2.1 on feedback during monitoring and measurement) are related to risk management and can be fulfilled by applying ISO 14971:2019. See also the ISO Handbook: ISO 13485:2016 \u2014 Medical devices \u2014 A practical guide[25].",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:74437:en",
+            "Status": "Published",
+            "Publication_date": "2020-06",
+            "Edition": "2",
+            "Number_of_pages": "87",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC 62304:2006",
+        "standard_description": "Medical device software \u2014 Software life cycle processes",
+        "standard_stage": "90.93",
+        "standard_url": "https://www.iso.org/standard/38421.html",
+        "standard_details": {
+            "abstract": "Defines the life cycle requirements for medical device software. The set of processes, activities, and tasks described in this standard establishes a common framework for medical device software life cycle processes.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:38421:en",
+            "Status": "Published",
+            "Publication_date": "2006-05",
+            "Edition": "1",
+            "Number_of_pages": "151",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC 62304:2006/Amd 1:2015",
+        "standard_description": "Medical device software \u2014 Software life cycle processes \u2014 Amendment 1",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/64686.html",
+        "standard_details": {
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:64686:en",
+            "Status": "Published",
+            "Publication_date": "2015-06",
+            "Corrected_version_(en)": "2017-11",
+            "Corrected_version_(fr)": "2017-11",
+            "Edition": "1",
+            "Number_of_pages": "80",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC 62366-1:2015",
+        "standard_description": "Medical devices \u2014 Part 1: Application of usability engineering to medical devices",
+        "standard_stage": "90.93",
+        "standard_url": "https://www.iso.org/standard/63179.html",
+        "standard_details": {
+            "abstract": "IEC 62366-1:2015 specifies a PROCESS for a MANUFACTURER to analyse, specify, develop and evaluate the USABILITY of a MEDICAL DEVICE as it relates to SAFETY. This USABILITY ENGINEERING (HUMAN FACTORS ENGINEERING) PROCESS permits the MANUFACTURER to assess and mitigate RISKS associated with CORRECT USE and USE ERRORS, i.e., NORMAL USE. It can be used to identify but does not assess or mitigate RISKS associated with ABNORMAL USE. This first edition of IEC 62366-1, together with the first edition of IEC 62366-2, cancels and replaces the first edition of IEC 62366 published in 2007 and its Amendment 1 (2014). Part 1 has been updated to include contemporary concepts of usability engineering, while also streamlining the process. It strengthens links to ISO 14971:2007 and the related methods of risk management as applied to safety related aspects of medical device user interfaces. Part 2 contains tutorial information to assist manufactures in complying with Part 1, as well as offering more detailed descriptions of usability engineering methods that can be applied more generally to medical devices that go beyond safety-related aspects of medical device user interfaces.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:63179:en",
+            "Status": "Published",
+            "Publication_date": "2015-02",
+            "Edition": "1",
+            "Number_of_pages": "96",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC 62366-1:2015/Amd 1:2020",
+        "standard_description": "Medical devices \u2014 Part 1: Application of usability engineering to medical devices \u2014 Amendment 1",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/73007.html",
+        "standard_details": {
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:73007:en",
+            "Status": "Published",
+            "Publication_date": "2020-07",
+            "Edition": "1",
+            "Number_of_pages": "38",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC 62366-1:2015/Cor 1:2016",
+        "standard_description": "Medical devices \u2014 Part 1: Application of usability engineering to medical devices \u2014 Technical Corrigendum 1",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/72042.html",
+        "standard_details": {
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:72042:en",
+            "Status": "Published",
+            "Publication_date": "2016-07",
+            "Edition": "1",
+            "Number_of_pages": "1",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC/TR 62366-2:2016",
+        "standard_description": "Medical devices \u2014 Part 2: Guidance on the application of usability engineering to medical devices",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/69126.html",
+        "standard_details": {
+            "abstract": "IEC TR 62366-2:2016(E), which is a Technical Report, contains background information and provides guidance that addresses specific areas that experience suggests can be helpful for those implementing a USABILITY ENGINEERING (HUMAN FACTORS ENGINEERING) PROCESS both as defined in IEC 62366-1:2015 and as supporting goals other than SAFETY. This technical report is not intended to be used for regulatory purposes. It contains no requirements and only provides guidance and tutorial information.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:69126:en",
+            "Status": "Published",
+            "Publication_date": "2016-04",
+            "Edition": "1",
+            "Number_of_pages": "94",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC 62366:2007",
+        "standard_description": "Medical devices \u2014 Application of usability engineering to medical devices",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/38594.html",
+        "standard_details": {
+            "abstract": "Specifies a process for a manufacturer to analyse, specify, design, verify and validate usability, as it relates to safety of a medical device. This usability engineering process assesses and mitigates risks caused by usability problems associated with correct use and use errors, i.e. normal use. It can be used to identify but does not assess or mitigate risks associated with abnormal use.              \nIf the usability engineering process detailed in this International Standard has been complied with and the acceptance criteria documented in the usability validation plan have been met, then the residual risks, as defined in ISO 14971, associated with usability of a medical device are presumed to be acceptable, unless there is objective evidence to the contrary. \nThis International Standard does not apply to clinical decision-making relating to the use of a medical device.",
+            "Status": "Withdrawn",
+            "Publication_date": "2007-10",
+            "Edition": "1",
+            "Number_of_pages": "198",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC 62366:2007/Amd 1:2014",
+        "standard_description": "Medical devices \u2014 Application of usability engineering to medical devices \u2014 Amendment 1",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/62780.html",
+        "standard_details": {
+            "Status": "Withdrawn",
+            "Publication_date": "2014-01",
+            "Edition": "1",
+            "Number_of_pages": "10",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC 80001-1:2010",
+        "standard_description": "Application of risk management for IT-networks incorporating medical devices \u2014 Part 1: Roles, responsibilities and activities",
+        "standard_stage": "95.99",
+        "standard_url": "https://www.iso.org/standard/44863.html",
+        "standard_details": {
+            "abstract": "IEC 80001-1:2010 Recognizing that medical devices are incorporated into IT-networks to achieve desirable benefits (for example, interoperability), defines the roles, responsibilities and activities that are necessary for risk management of IT-networks incorporating medical devices to address safety, effectiveness and data and system security (the key properties). IEC 80001-1:2010 does not specify acceptable risk levels. IEC 80001-1:2010 applies after a medical device has been acquired by a responsible organization and is a candidate for incorporation into an IT-network. It applies throughout the life cycle of IT-networks incorporating medical devices. IEC 80001-1:2010 applies where there is no single medical device manufacturer assuming responsibility for addressing the key properties of the IT-network incorporating a medical device. IEC 80001-1:2010 applies to responsible organizations, medical device manufacturers and providers of other information technology for the purpose of risk management of an IT-network incorporating medical devices as specified by the responsible organization. It does not apply to personal use applications where the patient, operator and responsible organization are one and the same person.",
+            "Status": "Withdrawn",
+            "Publication_date": "2010-10",
+            "Edition": "1",
+            "Number_of_pages": "70",
+            "Technical_Committee": "ISO/TC 215 Health informatics",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC 80001-1:2021",
+        "standard_description": "Application of risk management for IT-networks incorporating medical devices \u2014 Part 1: Safety, effectiveness and security in the implementation and use of connected medical devices or connected health software",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/72026.html",
+        "standard_details": {
+            "abstract": "This document specifies general requirements for ORGANIZATIONS in the application of RISK MANAGEMENT before, during and after the connection of a HEALTH IT SYSTEM within a HEALTH IT INFRASTRUCTURE, by addressing the KEY PROPERTIES of SAFETY, EFFECTIVENESS and SECURITY whilst engaging appropriate stakeholders. IEC 80001-1:2021 cancels and replaces the first edition published in 2010. This edition constitutes a technical revision. This edition includes the following significant technical changes with respect to the previous edition: a) structure changed to better align with ISO 31000; b) establishment of requirements for an ORGANIZATION in the application of RISK MANAGEMENT; c) communication of the value, intention and purpose of RISK MANAGEMENT through principles that support preservation of the KEY PROPERTIES during the implementation and use of connected HEALTH SOFTWARE and/or HEALTH IT SYSTEMS.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:72026:en",
+            "Status": "Published",
+            "Publication_date": "2021-09",
+            "Edition": "2",
+            "Technical_Committee": "ISO/TC 215 Health informatics",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC/TR 80001-2-1:2012",
+        "standard_description": "Application of risk management for IT-networks incorporating medical devices \u2014 Part 2-1: Step by Step Risk Management of Medical IT-Networks; Practical Applications and Examples",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/57934.html",
+        "standard_details": {
+            "abstract": "IEC/TR 80001-2-1:2012(E), which is a technical report, is a step-by-step guide to help in the application of risk management when creating or changing a medical IT-network. It provides easy to apply steps, examples, and information helping in the identification and control of risks. All relevant requirements in IEC 80001-1:2010 are addressed and links to other clauses and subclauses of IEC 80001-1 are addressed where appropriate (e.g. handover to release management and monitoring). This technical report focuses on practical risk management. It is not intended to provide a full outline or explanation of all requirements that are satisfactorily covered by IEC 80001-1. This step-by-step guidance follows a 10-step process that follows subclause 4.4 of IEC 80001-1:2010, which specifically addresses risk analysis, risk evaluation and risk control. These activities are embedded within the full life cycle risk management process. They can never be the first step, as risk management follows the general process model which sets planning before any action.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:57934:en",
+            "Status": "Published",
+            "Publication_date": "2012-07",
+            "Edition": "1",
+            "Number_of_pages": "59",
+            "Technical_Committee": "ISO/TC 215 Health informatics",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC/TR 80001-2-2:2012",
+        "standard_description": "Application of risk management for IT-networks incorporating medical devices \u2014 Part 2-2: Guidance for the communication of medical device security needs, risks and controls",
+        "standard_stage": "90.92",
+        "standard_url": "https://www.iso.org/standard/57939.html",
+        "standard_details": {
+            "abstract": "IEC/TR 80001-2-2:2012(E), which is a technical report, creates a framework for the disclosure of security-related capabilities and risks necessary for managing the risk in connecting medical devices to IT-networks and for the security dialog that surrounds the IEC 80001-1 risk management of IT-network connection. This security report presents an informative set of common, high-level security-related capabilities useful in understanding the user needs, the type of security controls to be considered and the risks that lead to the controls. Intended use and local factors determine which exact capabilities will be useful in the dialog about risk. The capability descriptions in this report are intended to supply health delivery organizations (HDOs), medical device manufacturers (MDMs), and IT vendors with a basis for discussing risk and their respective roles and responsibilities toward its management. This discussion among the risk partners serves as the basis for one or more responsibility agreements as specified in IEC 80001-1.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:57939:en",
+            "Status": "Published",
+            "Publication_date": "2012-07",
+            "Edition": "1",
+            "Number_of_pages": "48",
+            "Technical_Committee": "ISO/TC 215 Health informatics",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC/TR 80001-2-3:2012",
+        "standard_description": "Application of risk management for IT-networks incorporating medical devices \u2014 Part 2-3: Guidance for wireless networks",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/57941.html",
+        "standard_details": {
+            "abstract": "IEC/TR 80001-2-3:2012(E), which is a technical report, supports the Healthcare Delivery Organizations (HDO) in the risk management of medical IT-networks that incorporate one or more wireless links. The report, as part of IEC 80001, considers the use of wirelessly networked medical devices on a medical IT-network and offers practical techniques to address the unique risk management requirements of operating wirelessly enabled medical devices in a safe, secure and effective manner. The targeted audience for this technical report is the HDO IT department, biomedical and clinical\nengineering departments, risk managers, and the people responsible for design and operation of the wireless IT network.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:57941:en",
+            "Status": "Published",
+            "Publication_date": "2012-07",
+            "Edition": "1",
+            "Number_of_pages": "41",
+            "Technical_Committee": "ISO/TC 215 Health informatics",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC/TR 80001-2-4:2012",
+        "standard_description": "Application of risk management for IT-networks incorporating medical devices \u2014 Part 2-4: General implementation guidance for Healthcare Delivery Organizations",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/62323.html",
+        "standard_details": {
+            "abstract": "IEC/TR 80001-2-4:2012(E), which is a technical report, provides guidance to help a healthcare delivery organization fulfilling its obligations as a responsible organization in the application of IEC 80001-1. A healthcare delivery organization includes hospitals, doctors' offices, community care homes and clinics. Specifically, this guide helps the healthcare delivery organization assess the impact of IEC 80001-1 on the organization and establish a series of business as usual processes to manage RISK in the creation, maintenance and upkeep of its medical IT-networks. This technical report will be useful to those responsible for establishing an IEC 80001-1 compliant risk management framework within a healthcare delivery organization that is expecting to establish one or more medical IT-networks. It provides help through the key decisions and steps required to establish a risk management framework, before the organization embarks on a detailed risk assessment of an individual instance of a medical IT-network. The steps are supported by a series of decision points to steer the responsible organization through the process of understanding the medical IT-network context and identifying any organizational changes required to execute the responsibilities of top management.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:62323:en",
+            "Status": "Published",
+            "Publication_date": "2012-11",
+            "Edition": "1",
+            "Number_of_pages": "18",
+            "Technical_Committee": "ISO/TC 215 Health informatics",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC/TR 80001-2-5:2014",
+        "standard_description": "Application of risk management for IT-networks incorporating medical devices \u2014 Part 2-5: Application guidance \u2014 Guidance for distributed alarm systems",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/63718.html",
+        "standard_details": {
+            "abstract": "IEC TR 80001-2-5:2014(E) which is a technical report, gives guidance and practical techniques for responsible organizations, medical device manufacturers and providers of other information technology in the application of IEC 80001-1:2010 for the risk management of distributed alarm systems. This technical report applies to the transmission of alarm conditions between sources, integrator and communicators where at least one source is a medical device and at least one communication path utilizes a medical IT-network. This technical report provides recommendations for the integration, communication of responses and redirection (to another operator) of alarm conditions from one or more sources to ensure safety and effectiveness. Data and systems security is an important consideration for the risk management of distributed alarm systems.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:63718:en",
+            "Status": "Published",
+            "Publication_date": "2014-12",
+            "Edition": "1",
+            "Number_of_pages": "33",
+            "Technical_Committee": "ISO/TC 215 Health informatics",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC/TR 80001-2-8:2016",
+        "standard_description": "Application of risk management for IT-networks incorporating medical devices \u2014 Part 2-8: Application guidance \u2014 Guidance on standards for establishing the security capabilities identified in IEC 80001-2-2",
+        "standard_stage": "90.92",
+        "standard_url": "https://www.iso.org/standard/64635.html",
+        "standard_details": {
+            "abstract": "IEC TR 80001-2-8:2016(E), which is a Technical Report, provides guidance to Health Delivery Organizations (HDOs) and Medical Device Manufacturers (MDMs) for the application of the framework outlined in IEC TR 80001-2-2.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:64635:en",
+            "Status": "Published",
+            "Publication_date": "2016-05",
+            "Edition": "1",
+            "Number_of_pages": "43",
+            "Technical_Committee": "ISO/TC 215 Health informatics",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC/TR 80001-2-9:2017",
+        "standard_description": "Application of risk management for IT-networks incorporating medical devices \u2014 Part 2-9: Application guidance \u2014 Guidance for use of security assurance cases to demonstrate confidence in IEC/TR 80001-2-2 security capabilities",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/69355.html",
+        "standard_details": {
+            "abstract": "IEC TR 80001-2-9:2017(E) establishes a security case framework and provides guidance to health care delivery organizations (HDO) and medical device manufacturers (MDM) for identifying, developing, interpreting, updating and maintaining security cases for networked medical devices. Use of this part of 80001 is intended to be one of the possible means to bridge the gap between MDMs and HDOs in providing adequate information to support the HDOs risk management of IT-networks. This document leverages the requirements set out in ISO/IEC 15026-2 for the development of assurance cases. It is not intended that this security case framework will replace a risk management strategy, rather, the intention is to complement risk management and in turn provide a greater level of assurance for a medical device by:\n- mapping specific risk management steps to each of the IEC TR 80001-2-2 security capabilities, identifying associated threats and vulnerabilities and presenting them in the format of a security case with the inclusion of a re-useable security pattern;\n- providing guidance for the selection of appropriate security controls to establish security capabilities and presenting them as part of the security case pattern (IEC TR 80001-2-8 provides examples of such security controls);\n- providing evidence to support the implementation of a security control, hence providing confidence in the establishment of each of the security capabilities.\nThe purpose of developing the security case is to demonstrate confidence in the establishment of IEC TR 80001-2-2 security capabilities. The quality of artifacts gathered and documented during the development of the security case is agreed and documented as part of a responsibility agreement between the relevant stakeholders. This document provides guidance for one such methodology, through the use of a specific security pattern, to develop and interpret security cases in a systematic manner.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:69355:en",
+            "Status": "Published",
+            "Publication_date": "2017-01",
+            "Edition": "1",
+            "Number_of_pages": "28",
+            "Technical_Committee": "ISO/TC 215 Health informatics",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TR 80001-2-6:2014",
+        "standard_description": "Application of risk management for IT-networks incorporating medical devices \u2014 Part 2-6: Application guidance \u2014 Guidance for responsibility agreements",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/63108.html",
+        "standard_details": {
+            "abstract": "ISO/TR 80001-2-6:2014 provides guidance on implementing RESPONSIBILITY AGREEMENTS, which are described in IEC 80001-1 as used to establish the roles and responsibilities among the stakeholders engaged in the incorporation of a MEDICAL DEVICE into an IT-NETWORK in order to support compliance to IEC 80001-1. Stakeholders may include RESPONSIBLE ORGANIZATIONS, IT suppliers, MEDICAL DEVICE manufacturers and others. The goal of the RESPONSIBILITY AGREEMENT is that these roles and responsibilities should cover the complete lifecycle of the resulting MEDICAL IT-NETWORK.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:63108:en",
+            "Status": "Published",
+            "Publication_date": "2014-12",
+            "Edition": "1",
+            "Number_of_pages": "15",
+            "Technical_Committee": "ISO/TC 215 Health informatics",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TR 80001-2-7:2015",
+        "standard_description": "Application of risk management for IT-networks incorporating medical devices \u2014 Application guidance \u2014 Part 2-7: Guidance for healthcare delivery organizations (HDOs) on how to self-assess their conformance with IEC 80001-1",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/63509.html",
+        "standard_details": {
+            "abstract": "ISO/TR 80001-2-7:2015 is to provide guidance to HDOs on self-assessment of their conformance against IEC 80001\u20111.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:63509:en",
+            "Status": "Published",
+            "Publication_date": "2015-04",
+            "Edition": "1",
+            "Number_of_pages": "102",
+            "Technical_Committee": "ISO/TC 215 Health informatics",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC/TR 80002-1:2009",
+        "standard_description": "Medical device software \u2014 Part 1: Guidance on the application of ISO 14971 to medical device software",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/54146.html",
+        "standard_details": {
+            "abstract": "IEC/TR 80002-1:2009(E) provides guidance for the application of the requirements contained in ISO 14971:2007, Medical devices - Application of risk management to medical devices to medical device software with reference to IEC 62304:2006, Medical device software - Software life cycle processes. It does not add to, or otherwise change, the requirements of ISO 14971:2007 or IEC 62304:2006. IEC/TR 80002-1:2009(E) is aimed at risk management practitioners who need to perform risk management when software is included in the medical device/system, and at software engineers who need to understand how to fulfil the requirements for risk management addressed in ISO 14971. ISO 14971, recognized worldwide by regulators, is widely acknowledged as the principal standard to use when performing medical device risk management. IEC 62304:2006, makes a normative reference to ISO 14971 requiring its use. The content of these two standards provides the foundation for this technical report. It should be noted that even though ISO 14971 and this technical report focus on medical devices, this technical report may be used to implement a safety risk management process for all software in the healthcare environment independent of whether it is classified as a medical device. IEC/TR 80002-1:2009 is not intended to be used as the basis of regulatory inspection or certification assessment activities.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:54146:en",
+            "Status": "Published",
+            "Publication_date": "2009-09",
+            "Edition": "1",
+            "Number_of_pages": "58",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "ISO/TR 80002-2:2017",
+        "standard_description": "Medical device software \u2014 Part 2: Validation of software for medical device quality systems",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/60044.html",
+        "standard_details": {
+            "abstract": "ISO/TR 80002-2:2017 applies to any software used in device design, testing, component acceptance, manufacturing, labelling, packaging, distribution and complaint handling or to automate any other aspect of a medical device quality system as described in ISO 13485.\nISO/TR 80002-2:2017 applies to\n-      software used in the quality management system,\n-      software used in production and service provision, and\n-      software used for the monitoring and measurement of requirements.\nIt does not apply to\n-      software used as a component, part or accessory of a medical device, or\n-      software that is itself a medical device.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:60044:en",
+            "Status": "Published",
+            "Publication_date": "2017-06",
+            "Edition": "1",
+            "Number_of_pages": "84",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC/TR 80002-3:2014",
+        "standard_description": "Medical device software \u2014 Part 3: Process reference model of medical device software life cycle processes (IEC 62304)",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/65624.html",
+        "standard_details": {
+            "abstract": "IEC TR 80002-3:2014 which is a technical report (TR), provides the description of software life cycle processes for medical devices. The medical device software life cycle processes are derived from IEC 62304:2006, with corresponding safety classes. They have been aligned with the software development life cycle processes of ISO/IEC 12207:2008 and are presented herein in full compliance with ISO/IEC 24774:2010. The content of these three standards provides the foundation of this TR. This TR does not:           - address areas already covered by existing related standards, e.g. the international standards that relate to the four standards used to build this TR (see Bibliography);                    \n- FDA guidance documents; or                            \n- software development tools. This TR describes the process reference model for medical device software development and is limited in scope to the life cycle processes described in IEC 62304:2006. The process names correspond to those of IEC 62304:2006. The mappings provided in Annex B are essential for the alignment between IEC 62304:2006 (which is based on ISO/IEC 12207:1995) and ISO/IEC 12207:2008, developed to address the detailed normative relationship between the two standards. This technical report is not intended to be used as the basis of regulatory inspection or certification assessment activities.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:65624:en",
+            "Status": "Published",
+            "Publication_date": "2014-06",
+            "Edition": "1",
+            "Number_of_pages": "23",
+            "Technical_Committee": "ISO/TC 210 Quality management and corresponding general aspects for products with a health purpose including medical devices",
+            "ICS": "11.040.01:Medical equipment in general|35.240.80:IT applications in health care technology"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC 80601-2-77:2019",
+        "standard_description": "Medical electrical equipment \u2014 Part 2-77: Particular requirements for the basic safety and essential performance of robotically assisted surgical equipment",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/68473.html",
+        "standard_details": {
+            "abstract": "IEC 80601-2-77:2019 applies to the BASIC SAFETY and ESSENTIAL PERFORMANCE of ROBOTICALLY ASSISTED SURGICAL EQUIPMENT (RASE) and ROBOTICALLY ASSISTED SURGICAL SYSTEMS (RASS), referred to as ME EQUIPMENT and ME SYSTEMS together with their INTERACTION CONDITIONS and INTERFACE CONDITIONS.",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:68473:en",
+            "Status": "Published",
+            "Publication_date": "2019-07",
+            "Edition": "1",
+            "Number_of_pages": "96",
+            "Technical_Committee": "ISO/TC 299 Robotics",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC 80601-2-78:2019",
+        "standard_description": "Medical electrical equipment \u2014 Part 2-78: Particular requirements for basic safety and essential performance of medical robots for rehabilitation, assessment, compensation or alleviation",
+        "standard_stage": "60.60",
+        "standard_url": "https://www.iso.org/standard/68474.html",
+        "standard_details": {
+            "abstract": "IEC 80601-2-78:2019 applies to the general requirements for BASIC SAFETY and ESSENTIAL PERFORMANCE of MEDICAL ROBOTS that physically interact with a PATIENT with an IMPAIRMENT to support or perform REHABILITATION, ASSESSMENT, COMPENSATION or ALLEVIATION related to the PATIENT\u2019S MOVEMENT FUNCTIONS, as intended by the MANUFACTURER.\nIEC 80601-2-78:2019 does not apply to\n\u2022 external limb prosthetic devices (use ISO 22523),\n\u2022 electric wheelchairs (use ISO 7176 (all parts)),\n\u2022 diagnostic imaging equipment (e.g. MRI, use IEC 60601-2-33), and\n\u2022 personal care ROBOTS (use ISO 13482).",
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:68474:en",
+            "Status": "Published",
+            "Publication_date": "2019-07",
+            "Edition": "1",
+            "Number_of_pages": "144",
+            "Technical_Committee": "ISO/TC 299 Robotics",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC 80601-2-77:2019/DAmd 1",
+        "standard_description": "Medical electrical equipment \u2014 Part 2-77: Particular requirements for the basic safety and essential performance of robotically assisted surgical equipment \u2014 Amendment 1",
+        "standard_stage": "40.99",
+        "standard_url": "https://www.iso.org/standard/83340.html",
+        "standard_details": {
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:83340:en",
+            "Status": "Under development",
+            "Edition": "1",
+            "Number_of_pages": "5",
+            "Technical_Committee": "ISO/TC 299 Robotics",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    },
+    {
+        "ics_title": "11.040",
+        "ics_description": "Medical equipment",
+        "facility_title": "11.040.01",
+        "facility_description": "Medical equipment in general",
+        "standard_title": "IEC 80601-2-78:2019/DAmd 1",
+        "standard_description": "Medical electrical equipment \u2014 Part 2-78: Particular requirements for basic safety and essential performance of medical robots for rehabilitation, assessment, compensation or alleviation \u2014 Amendment 1",
+        "standard_stage": "40.99",
+        "standard_url": "https://www.iso.org/standard/83341.html",
+        "standard_details": {
+            "preview_doc": "https://www.iso.org/obp/ui/en/#!iso:std:83341:en",
+            "Status": "Under development",
+            "Edition": "1",
+            "Number_of_pages": "10",
+            "Technical_Committee": "ISO/TC 299 Robotics",
+            "ICS": "11.040.01:Medical equipment in general"
+        }
+    }
+]
