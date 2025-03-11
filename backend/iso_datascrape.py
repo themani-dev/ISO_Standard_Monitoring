@@ -206,10 +206,10 @@ class Load_ICS_Standards:
                 print("No URL provided for :: "+res['ics_title'])
         ics_df = pd.json_normalize(ret)
         #############################-Testing-###########################################
-        json_obj = json.dumps(ret,indent=4)
-        with open("data/extract_iso_standards_"+datetime.now().strftime('%Y%m%d%H%M%S')+".json", 'w') as file_obj:
-            file_obj.write(json_obj)
-        file_obj.close()
+        # json_obj = json.dumps(ret,indent=4)
+        # with open("data/extract_iso_standards_"+datetime.now().strftime('%Y%m%d%H%M%S')+".json", 'w') as file_obj:
+        #     file_obj.write(json_obj)
+        # file_obj.close()
         # ics_df.to_csv("data/extract_iso_standards.csv", sep=',', encoding='utf-8',index=False)
         #################################################################################
         return standards_df,ics_df

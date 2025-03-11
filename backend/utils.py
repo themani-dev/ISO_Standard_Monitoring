@@ -5,8 +5,8 @@ from pytz import timezone
 
 def get_diff(p_key_clmn,old_df,new_df):
     change_names = lambda lst, key_id: [item.replace(key_id, '') if key_id in item else item for item in lst]
-    test = old_df.merge(new_df,how="right",indicator=True,on=p_key_clmn).loc[lambda x: x['_merge'] == 'right_only']
-    test.to_csv('data/added.csv',index=False)
+    # test = old_df.merge(new_df,how="right",indicator=True,on=p_key_clmn).loc[lambda x: x['_merge'] == 'right_only']
+    # test.to_csv('data/added.csv',index=False)
     added = old_df.merge(new_df,how="right",indicator=True,on=p_key_clmn).loc[lambda x: x['_merge'] == 'right_only'].dropna(axis=1, how='all')
     if added.shape[0]>0:
         added.drop(columns='_merge',inplace=True)
