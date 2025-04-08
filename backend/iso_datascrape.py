@@ -1,12 +1,13 @@
 import re,json
 import pandas as pd
-from settings import *
-from utils import get_diff,get_raw_data,get_intel, get_slack_message, get_error_message
+from utils.settings import *
+from utils.utils import get_diff,get_raw_data,get_intel, get_slack_message, get_error_message
 from sqlalchemy import create_engine
 from datetime import datetime
+from sqlalchemy import text
 from sqlalchemy.types import VARCHAR, TEXT, TIMESTAMP, JSON
-from airflow import AirflowException
-from utils import db_params
+# from airflow import AirflowException
+from utils.config import db_params
 
 sql_engine = create_engine('postgresql://{user}:{password}@{host}:{port}/{dbname}'.format(**db_params))
 class Load_ICS_Standards:
@@ -39,9 +40,9 @@ class Load_ICS_Standards:
             cat_insrt_qry = """select * from tbl_iso_hct_catalog where updated_on =  (select max(updated_on) from tbl_iso_hct_catalog)"""
             ics_qry = """select * from tbl_ics where updated_on = (select max(updated_on) from tbl_ics) """
             std_qry = """ select * from tbl_iso_standards where updated_on = (select max(updated_on) from tbl_iso_standards) """
-            cat_df = pd.read_sql_query(cat_insrt_qry, con=con)
-            ics_df = pd.read_sql_query(ics_qry,con=con)
-            std_df = pd.read_sql_query(std_qry,con=con)
+            cat_df = pd.read_sql_query(text(cat_insrt_qry), con=con)
+            ics_df = pd.read_sql_query(text(ics_qry),con=con)
+            std_df = pd.read_sql_query(text(std_qry),con=con)
             con.close()
         except Exception as e:
             print("Error while fetching the existing records :: "+str(e))
@@ -53,11 +54,13 @@ class Load_ICS_Standards:
         try:
             # sql_engine = self.pg_hook.get_sqlalchemy_engine()
             con = sql_engine.connect()
-            self.filtered_catalog_df.to_sql(self.catalog_table, con, index=False, if_exists='append', method='multi', chunksize=500)
+            print(self.filtered_standards_df.shape)
+            self.filtered_catalog_df.to_sql(self.catalog_table, sql_engine, index=False, if_exists='append', method='multi', chunksize=500)
             print("Data loaded into :: " + self.catalog_table)
-            self.filtered_ics_df.to_sql(self.ics_table, con, index=False, if_exists='append', method='multi',chunksize=500)
+            self.filtered_ics_df.to_sql(self.ics_table, sql_engine, index=False, if_exists='append', method='multi',chunksize=500)
             print("Data loaded into :: " + self.ics_table)
-            self.filtered_standards_df.to_sql(self.standards_table, con, index=False, if_exists='append', method='multi', chunksize=500)
+            self.filtered_standards_df.to_sql(self.standards_table, sql_engine, index=False, if_exists='append', method='multi',chunksize=500)
+
             print("Data loaded into :: " + self.standards_table)
             con.close()
         except Exception as e:
@@ -91,11 +94,13 @@ class Load_ICS_Standards:
                         elif load_type == 2:  # for standards
                             try:
                                 if header.get('data-title') == 'Standard and/or project':
-                                    payload['title'] = header.find('a').text
-                                    payload['url'] = header.find('a').get('href')
-                                    payload['title'] = header.text
-                                    payload['description'] = payload['title'].split('\n')[-2]  # removing additional spaces
-                                    payload["title"] = payload['title'].split('\n')[-3].strip()
+                                    a_tag = header.find('a')
+                                    payload['title'] = a_tag.find('span', class_='entry-name').text.strip()
+                                    payload['url'] = a_tag.get('href')
+                                    # Description is in the next div inside the container
+                                    description_div = header.find('div', class_='entry-description')
+                                    if description_div:
+                                        payload['description'] = description_div.text.strip()
                                 if header.get('data-title') == 'Stage':
                                    payload['stage'] = header.find('a').text
                             except Exception as e:
@@ -120,36 +125,33 @@ class Load_ICS_Standards:
                 for p in desc:
                     val += re.sub(r'\n+', '\n', p.get_text())
                 ret['abstract'] = val.strip()
-            doc_url = section.find_all('a', id='obp-preview')
-            if doc_url is not None:
-                if len(doc_url) > 0:
-                    ret['preview_doc'] = doc_url[0].get('href')
             else:
-                ret['preview_doc'] = None
+                ret['abstract'] = None
+            doc_url_tag = section.select_one('figcaption a')
+            ret['preview_doc'] = doc_url_tag['href'].strip() if doc_url_tag and doc_url_tag.has_attr('href') else None
             if stat:
-                for item in stat:
-                    val = item.get_text().strip()
-                    if len(val) > 0:
-                        val = re.sub(r'\n+', '\n', val)
-                        # print(val)
-                        if len(val.split(':')) > 2:
-                            val = val.split("\n")
-                            for item in val:
-                                item = item.split(":")
-                                ret[item[0].strip().replace(' ', '_')] = item[1].strip().replace('\n',' ')
-                        else:
-                            temp1 = val.split(":")
-                            ret[temp1[0].strip().replace(' ', '_')] = temp1[1].strip().replace('\n',' ')
-            ##### - Converting ICS to concatenatd string ###########
-            val = ret['ICS']
-            temp = ''
-            if len(val) > 0:
-                val1 = re.split(r'\s{2,}', val)
-                for item in val1:
-                    temp += '|'
-                    temp1 = item.split(' ', 1)
-                    temp += temp1[0] + ':' + temp1[1]
-            ret['ICS'] = temp[1:]
+                for li in stat.find_all("li", recursive=False):
+                    divs = li.find_all("div", recursive=False)
+
+                    for div in divs:
+                        label_tag = div.find("div", class_="entry-label")
+                        if label_tag:
+                            # Get label text and clean it
+                            key = label_tag.get_text(strip=True)
+                            key = re.sub(r'\xa0|:$', '', key).replace(" ","_")
+
+                            # Remove the label from the div to get only the value content
+                            label_tag.decompose()
+                            value = div.get_text(separator=' ', strip=True)
+                            value = value.replace(":", "").strip()
+
+                            # Handle multiple values in child <a> tags (like ICS)
+                            links = div.find_all("a")
+                            if links:
+                                values = [a.get_text(strip=True) for a in links]
+                                value = "|".join(values)
+
+                            ret[key] = value
 
         except Exception as e:
             print("Error while extracting standard details :: "+str(e))
@@ -162,10 +164,6 @@ class Load_ICS_Standards:
         stand_metadata = self.get_metadata(soup_obj=soup,load_type=1)
         standards_df = pd.DataFrame(stand_metadata)
         # extracting list of publications
-        ################### Testing #######################
-        # standards_df = standards_df.query("title == '11.040'")
-        # print(standards_df)
-        ####################################################
         for idx,row in standards_df.iterrows():
             res = {}
             res['ics_title'] = row['title']
@@ -175,14 +173,7 @@ class Load_ICS_Standards:
                 soup = get_raw_data(url=(iso_base_url + ics_url[1:]))
                 metadata = self.get_metadata(soup_obj=soup, load_type=1)
                 # Extracting standards in each publication
-                ##########################-TESTING-########################################
-                # print(metadata)
-                #######################################################################
                 if len(metadata)>0:
-                    ##########################-TESTING-########################################
-                    # metadata = [metadata[0]]
-                    # print(metadata)
-                    #######################################################################
                     for facility in metadata:
                         res['facility_title'] = facility['title']
                         res['facility_description'] = facility['description']
@@ -205,28 +196,11 @@ class Load_ICS_Standards:
             else:
                 print("No URL provided for :: "+res['ics_title'])
         ics_df = pd.json_normalize(ret)
-        #############################-Testing-###########################################
-        # json_obj = json.dumps(ret,indent=4)
-        # with open("data/extract_iso_standards_"+datetime.now().strftime('%Y%m%d%H%M%S')+".json", 'w') as file_obj:
-        #     file_obj.write(json_obj)
-        # file_obj.close()
-        # ics_df.to_csv("data/extract_iso_standards.csv", sep=',', encoding='utf-8',index=False)
-        #################################################################################
         return standards_df,ics_df
 
-    ####################-Testing-#################################
-    def get_file_dataset(self):
-        f = open('data/extract_iso_standards_20230627120614.json', 'r')
-        data = json.loads(f.read())
-        ics_df = pd.json_normalize(data)
-        standards_df = pd.DataFrame()
-        return standards_df, ics_df
-    ###########################################################
+
     def prepare_data(self):
         fresh_catalog_df,fresh_ics_df = self.get_fresh_data()
-        ##################-Testing-###########################
-        # fresh_catalog_df, fresh_ics_df = self.get_file_dataset()
-        #####################################################
         existing_catalog_df,existing_ics_df,existing_standards_df = self.get_existing_data()
         #Load Catalog table
         if existing_catalog_df.shape[0]<1 and fresh_catalog_df.shape[0]>0:
@@ -240,7 +214,7 @@ class Load_ICS_Standards:
             new_db = fresh_catalog_df[['title','description']].drop_duplicates()
             added,deleted,before_updated,after_updated,existing=get_diff(p_key[self.catalog_table],old_db,new_db)
             print("+++++++++++ new_refs     : "+str(added.shape[0]))
-            print("+++++++++++ deleted_refs : " + st1r(deleted.shape[0]))
+            print("+++++++++++ deleted_refs : " + str(deleted.shape[0]))
             print("+++++++++++ updated_refs : " + str(after_updated.shape[0]))
             print("+++++++++++ NC_refs      : " + str(existing.shape[0]))
             added['is_deleted'] = after_updated['is_deleted'] = existing['is_deleted'] = False
@@ -280,7 +254,6 @@ class Load_ICS_Standards:
             updated_intel_refs = []
             fresh_cols = ['ics_title', 'facility_title', 'facility_description', 'standard_title','standard_stage', 'standard_details.Status']
             old_db = existing_ics_df.query("is_deleted == False").iloc[:, :-2]
-            # del_old_db = existing_ics_df.query("is_deleted == True").iloc[:, :-1]
             new_db = fresh_ics_df[fresh_cols].drop_duplicates()
             new_db.columns = existing_ics_df.iloc[:,:-2].columns.tolist()
             added, deleted, before_updated, after_updated, existing = get_diff(p_key[self.ics_table], old_db,new_db)
@@ -300,7 +273,6 @@ class Load_ICS_Standards:
                     updated_intel_refs = after_updated[p_key[self.ics_table]].apply("-".join, axis=1).tolist()
                 self.intel_records += get_intel(new_refs=new_intel_refs,removed_refs=removed_intel_refs,changed_refs=updated_intel_refs,run_time=datetime.now(),identifier=self.ics_tag)
                 self.filtered_ics_df = pd.concat([added, deleted, after_updated, existing], axis=0,ignore_index=True)
-                # self.filtered_ics_df.to_csv("data/ics.csv",index=False)
                 if len(self.intel_records) > 0:
                     self.slack_message += get_slack_message(job = 'ISO - ICS',run_time= self.run_time,new_refs=new_intel_refs ,changed_refs=updated_intel_refs,removed_refs=removed_intel_refs)
 
@@ -323,13 +295,11 @@ class Load_ICS_Standards:
             new_intel_refs = []
             removed_intel_refs = []
             updated_intel_refs = []
-            # print(fresh_ics_df['standard_url'])
             fresh_cols = ['standard_title', 'standard_description', 'standard_stage' ,'standard_details.abstract',
                           'standard_details.Status', 'standard_details.Publication_date', 'standard_details.Edition',
                           'standard_details.Number_of_pages', 'standard_details.Technical_Committee',
                           'standard_details.ICS','standard_details.preview_doc']
             old_db = existing_standards_df.query("is_deleted == False").iloc[:, :-2]
-            # del_old_db = existing_standards_df.query("is_deleted == True").iloc[:, :-1]
             new_db = fresh_ics_df[fresh_cols].drop_duplicates()
             new_db.columns = existing_standards_df.iloc[:,:-2].columns.tolist()
             added, deleted, before_updated, after_updated, existing = get_diff(p_key[self.standards_table], old_db,new_db)
@@ -358,16 +328,3 @@ class Load_ICS_Standards:
             print("No Fresh Data Found for Standards ")
         # print(self.slack_message)
         return
-
-obj = Load_ICS_Standards()
-
-start_time = datetime.now()
-start_time = start_time.strftime("%H:%M:%S")
-print("program start Time =", start_time)
-
-obj.prepare_data()
-obj.load_to_rdbms()
-
-end_time = datetime.now()
-end_time = end_time.strftime("%H:%M:%S")
-print("program end Time =", end_time)
