@@ -1,3 +1,8 @@
+notify_email_ids = ['themanidev@gmail.com']
+slack_channel = 'Dag_Alerts'
+
+environment = 'dev'
+
 iso_base_url = 'https://www.iso.org/'
 iso_hct_suffix = 'ics/11/x/'
 p_key = {"tbl_iso_hct_catalog":["title"],
