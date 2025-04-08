@@ -2,7 +2,7 @@ import airflow
 from airflow.operators.python_operator import PythonOperator
 from airflow.providers.slack.operators.slack_webhook import SlackWebhookOperator
 from datetime import datetime, timedelta
-from settings import environment, slack_channel, notify_email_ids
+from utils.settings import environment, slack_channel, notify_email_ids
 
 default_args = {
             "owner": "Mani Dev",
