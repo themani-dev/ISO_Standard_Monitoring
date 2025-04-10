@@ -1,5 +1,5 @@
 notify_email_ids = ['themanidev@gmail.com']
-slack_channel = 'Dag_Alerts'
+slack_channel = ''
 
 environment = 'dev'
 
